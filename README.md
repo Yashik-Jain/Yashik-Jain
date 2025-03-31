@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Spotify clone project.<br>👯 I’m on the lookout for like-minded tech enthusiasts to team up for hackathons and build something amazing! 🚀<br>🌱 I’m currently learning full-stack development (Express, Node.js, React, MongoDB,Next js etc.).<br>💬 Ask me about web development, APIs, and hackathon strategies.<br>⚡ Fun fact: The first website ever created is still online! Check out Tim Berners-Lee’s original 1991 website at info.cern.ch. 🚀
+🔭 Bringing Ideas to Life! Currently building an Instagram clone with modern web technologies. 📸🚀<br>👯 I’m on the lookout for like-minded tech enthusiasts to team up for hackathons and build something amazing! 🚀<br>🌱 I’m currently learning full-stack development (Express, Node.js, React, MongoDB,Next js etc.).<br>💬 Ask me about web development, APIs, and hackathon strategies.<br>⚡ Fun fact: The first website ever created is still online! Check out Tim Berners-Lee’s original 1991 website at info.cern.ch. 🚀
 
 
 ## 🌐 Socials:
