@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Bringing Ideas to Life! Currently building an Instagram clone with modern web technologies. 📸🚀<br>👯 I’m on the lookout for like-minded tech enthusiasts to team up for hackathons and build something amazing! 🚀<br>🌍 Exploring the world of Full-Stack Development—building modern, scalable web applications with React, Node.js, Express, MongoDB, and Next.js..<br>💬 Ask me about web development, APIs, and hackathon strategies.<br>⚡ Fun fact: The first website ever created is still online! Check out Tim Berners-Lee’s original 1991 website at info.cern.ch. 🚀
 
 
